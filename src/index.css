@@ -7,3 +7,22 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+
+/* সব NavLink এর জন্য base color */
+a {
+  color: black;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+/* hover হলে */
+a:hover {
+  color: #ff4d4d;
+}
+
+/* NavLink active হলে (className="active") */
+a.active {
+  color: red;
+  font-weight: 600;
+  border-bottom: 2px solid red;
+}
