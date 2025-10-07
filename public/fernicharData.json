@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Geometric Throw Pillow",
+    "category": "Textiles",
+    "price": 450,
+    "material": "Cotton and Polyester Blend",
+    "dimensions": "18x18 inches",
+    "stock": true,
+    "image": "https://i.ibb.co.com/JjtbLSxx/pillow-sofa-decoration.jpg",
+    "description": "Soft throw pillow with a modern black and white geometric pattern."
+  },
+  {
+    "id": 2,
+    "name": "Ceramic Succulent Pot",
+    "category": "Planters",
+    "price": 425,
+    "material": "Glazed Ceramic",
+    "dimensions": "4 inches diameter, 3 inches high",
+    "stock": true,
+    "image": "https://i.ibb.co.com/zhVKrSRK/pillow-sofa.jpg",
+    "description": "Small, stylish pot perfect for succulents or small cacti. Drainage hole included."
+  },
+  {
+    "id": 3,
+    "name": "Oak Wood Floating Shelf",
+    "category": "Storage & Shelving",
+    "price": 510,
+    "material": "Solid Oak Wood",
+    "dimensions": "24x8x1.5 inches",
+    "stock": true,
+    "image": "https://i.ibb.co.com/spbDmdtL/patio-deck.jpg",
+    "description": "Minimalist floating shelf with invisible mounting hardware."
+  },
+  {
+    "id": 4,
+    "name": "Abstract Canvas Art",
+    "category": "Wall Decor",
+    "price": 1250,
+    "material": "Canvas, Acrylic Paint, Wood Frame",
+    "dimensions": "30x40 inches",
+    "stock": false,
+    "image": "https://i.ibb.co.com/FL4ML0qZ/download-1.jpg",
+    "description": "Hand-painted abstract piece with vibrant blues and golds."
+  },
+  {
+    "id": 5,
+    "name": "Vintage Brass Desk Lamp",
+    "category": "Lighting",
+    "price": 790,
+    "material": "Brass and Metal",
+    "dimensions": "15 inches high, 6 inches base",
+    "stock": true,
+    "image": "https://i.ibb.co.com/chwKSP2t/download-3.jpg",
+    "description": "Adjustable desk lamp with a classic vintage brass finish."
+  },
+  {
+    "id": 6,
+    "name": "Faux Fur Area Rug",
+    "category": "Rugs & Mats",
+    "price": 950,
+    "material": "Acrylic Faux Fur",
+    "dimensions": "5x7 feet",
+    "stock": true,
+    "image": "https://i.ibb.co.com/8nNFYTn6/download-4.jpg",
+    "description": "Luxuriously soft and shaggy area rug in a cream color."
+  },
+  {
+    "id": 7,
+    "name": "Woven Basket Set (3 Pcs)",
+    "category": "Storage & Organization",
+    "price": 499,
+    "material": "Seagrass",
+    "dimensions": "Various (Large, Med, Small)",
+    "stock": true,
+    "image": "https://i.ibb.co.com/kVn057tW/download-5.jpg",
+    "description": "Set of three hand-woven seagrass baskets for versatile storage."
+  },
+  {
+    "id": 8,
+    "name": "Mirror with Metal Frame",
+    "category": "Mirrors",
+    "price": 810,
+    "material": "Glass, Black Iron Frame",
+    "dimensions": "24 inches diameter (round)",
+    "stock": true,
+    "image": "https://i.ibb.co.com/Qvn3cGBC/download.jpg",
+    "description": "Simple and modern round mirror with a thin black metal frame."
+  },
+  {
+    "id": 9,
+    "name": "Scented Soy Candle",
+    "category": "Aromas & Scents",
+    "price": 400,
+    "material": "Soy Wax, Glass Jar",
+    "dimensions": "3.5 inches diameter, 4 inches high",
+    "stock": true,
+    "image": "https://i.ibb.co.com/ZRtLqwC6/images-1.jpg",
+    "description": "Vanilla and sandalwood scented candle with a long burn time."
+  },
+  {
+    "id": 10,
+    "name": "Linen Window Curtains",
+    "category": "Window Treatments",
+    "price": 600,
+    "material": "Linen Blend Fabric",
+    "dimensions": "52x84 inches (per panel)",
+    "stock": true,
+    "image": "https://i.ibb.co.com/C3kXVGnd/images-2.jpg",
+    "description": "Set of two semi-sheer linen curtains for a bright, airy feel."
+  },
+  {
+    "id": 11,
+    "name": "Decorative Wooden Tray",
+    "category": "Tabletop Decor",
+    "price": 475,
+    "material": "Mango Wood",
+    "dimensions": "16x10x2 inches",
+    "stock": true,
+    "image": "https://i.ibb.co.com/Z1VXxHc1/images-3.jpg",
+    "description": "Rectangular tray with a rustic finish, perfect for coffee tables."
+  },
+  {
+    "id": 12,
+    "name": "Modern Ceramic Vase",
+    "category": "Vases & Bowls",
+    "price": 550,
+    "material": "Matte Finished Ceramic",
+    "dimensions": "10 inches high, 5 inches wide",
+    "stock": true,
+    "image": "https://i.ibb.co.com/m5NHYpw2/images-4.jpg",
+    "description": "Tall, minimalist white ceramic vase for flower arrangements or standalone decor."
+  },
+  {
+    "id": 13,
+    "name": "Macrame Wall Hanging",
+    "category": "Wall Decor",
+    "price": 450,
+    "material": "Natural Cotton Rope, Dowel Rod",
+    "dimensions": "20 inches wide, 35 inches long",
+    "stock": true,
+    "image": "https://i.ibb.co.com/C5b9pzpY/images.jpg",
+    "description": "Bohemian-style macrame tapestry for a textured wall accent."
+  },
+  {
+    "id": 14,
+    "name": "Velvet Ottoman Pouf",
+    "category": "Furniture Accents",
+    "price": 725,
+    "material": "Velvet Fabric, Foam Fill",
+    "dimensions": "16 inches diameter, 14 inches high",
+    "stock": false,
+    "image": "https://i.ibb.co.com/chwKSP2t/download-3.jpg",
+    "description": "Soft, versatile pouf in emerald green velvet, suitable as a footrest or extra seating."
+  },
+  {
+    "id": 15,
+    "name": "Digital Photo Frame",
+    "category": "Technology & Gadgets",
+    "price": 899,
+    "material": "Plastic, Glass Screen",
+    "dimensions": "10 inches screen size",
+    "stock": true,
+    "image": "https://i.ibb.co.com/JjtbLSxx/pillow-sofa-decoration.jpg",
+    "description": "Wi-Fi enabled digital photo frame for sharing memories."
+  },
+  {
+    "id": 16,
+    "name": "Iron Bookends (Pair)",
+    "category": "Book Storage",
+    "price": 410,
+    "material": "Cast Iron",
+    "dimensions": "6x4x3 inches (each)",
+    "stock": true,
+    "image": "https://i.ibb.co.com/ZRtLqwC6/images-1.jpg",
+    "description": "Heavy-duty cast iron bookends with a classic architectural design."
+  },
+  {
+    "id": 17,
+    "name": "LED String Lights",
+    "category": "Novelty Lighting",
+    "price": 400,
+    "material": "Copper Wire, LED Bulbs",
+    "dimensions": "33 feet length",
+    "stock": true,
+    "image": "https://i.ibb.co.com/chwKSP2t/download-3.jpg",
+    "description": "Warm white LED fairy lights for indoor or outdoor use."
+  },
+  {
+    "id": 18,
+    "name": "Marble Coaster Set",
+    "category": "Kitchen & Barware",
+    "price": 435,
+    "material": "Polished Marble, Cork Backing",
+    "dimensions": "4 inches diameter (set of 4)",
+    "stock": true,
+    "image": "https://i.ibb.co.com/ZRtLqwC6/images-1.jpg",
+    "description": "Set of four elegant white marble coasters with natural grey veining."
+  },
+  {
+    "id": 19,
+    "name": "Decorative Globe Model",
+    "category": "Educational & Desk Decor",
+    "price": 575,
+    "material": "Metal Base, Paper Map",
+    "dimensions": "12 inches high, 8 inches diameter",
+    "stock": true,
+    "image": "https://i.ibb.co.com/Z1VXxHc1/images-3.jpg",
+    "description": "Vintage-style desktop globe with a detailed map and metal stand."
+  },
+  {
+    "id": 20,
+    "name": "Wool Knit Throw Blanket",
+    "category": "Textiles",
+    "price": 680,
+    "material": "Merino Wool Blend",
+    "dimensions": "50x60 inches",
+    "stock": true,
+    "image": "https://i.ibb.co.com/C5b9pzpY/images.jpg",
+    "description": "Chunky knit throw blanket, perfect for adding warmth and texture to a sofa."
+  }
+]
