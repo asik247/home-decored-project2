@@ -4,9 +4,9 @@ import { PiOrange } from "react-icons/pi";
 import { NavLink } from "react-router";
 const Home = () => {
   const { products } = useProducts();
-
   const sliceProduct = products.slice(0, 9);
   console.log(sliceProduct);
+    // const {image,price} = useProducts()
 
   return (
     <div className="container">
@@ -32,19 +32,24 @@ const Home = () => {
         {sliceProduct.map((product) => (
           <div key={product.id} className="card bg-base-100 w-full shadow-sm">
             <figure>
-              <img
-                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+              <img className="h-[180px] object-cover"
+                src={product.image}
                 alt="Shoes"
               />
             </figure>
             <div className="card-body">
-              <h2 className="card-title">Card Title</h2>
+              <h2 className="card-title">{product.name}</h2>
               <p>
-                A card component has a figure, a body part, and inside body
-                there are title and actions parts
+                {product.description}
+              </p>
+              <p>
+                {product.category}
+              </p>
+              <p>
+                {product.price}
               </p>
               <div className="card-actions justify-end">
-                <button className="btn btn-primary">Buy Now</button>
+                <button className="btn">View Details</button>
               </div>
             </div>
           </div>
